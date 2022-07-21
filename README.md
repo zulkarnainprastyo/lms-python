@@ -1,5 +1,8 @@
 # Library Management System  Python Project | Pacmann AI
 
+## About
+The library management system was developed in 2017. Its purpose was to help in management of preunit,secondary,primary schools,university . It is an offline management system. The system helps in managing the library resources. It helps in managing the collection of resources and in managing the access to these resources. It helps in controlling the usage of the resources and in keeping the inventory updated. This system plays a very big role in the management of a school library. However, its introduction has increased the school’s safety, efficiency and profit. Therefore, it is essential to introduce this system in all the schools.
+
 ## Overview
 Library management system in python - This is one of the most popular project among college students / beginners.it will help to hold all tasks in the computer system. which more helpful to the library manager. Here, we have given a brief introduction on what is Library Management System and its features:
           What Is Library Management System?
