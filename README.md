@@ -28,13 +28,9 @@ To Build a Library management system that is easy to use and provides a hassel f
 * dbook
 * dispbook
 
-## Features & Explanation
+## Features
 ### 1.Add book
-
 ### 2.Issue book
-
 ### 3.Submit book
-
 ### 4.Delete book
-
-## 5.Display book
+### 5.Display book
