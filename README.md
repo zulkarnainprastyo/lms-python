@@ -36,6 +36,4 @@ To Build a Library management system that is easy to use and provides a hassel f
 * Delete book
 * Display book
 
-## Authors
-Zulkarnain Prastyo (https://www.linkedin.com/in/zulkarnain-prastyo/)
 
